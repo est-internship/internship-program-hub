@@ -1,0 +1,275 @@
+{
+  "settings": {
+    "grade1112": "18 September – 18 December 2026",
+    "grade10Dates": "7 January – 7 April",
+    "grade10Year": "2027",
+    "minMeetings": 14,
+    "subject": "Position you're applying – your name"
+  },
+  "companies": [
+    {
+      "id": "rollerskool",
+      "name": "PT Autory Muda Indonesia (Rollerskool)",
+      "field": "Education & Training",
+      "quota": 4,
+      "filled": 0,
+      "address": "Jl. Bintaro Utara No.14, Bintaro, Kec. Pesanggrahan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12330",
+      "email": "hr@rollerskool.com",
+      "notes": [],
+      "roles": [
+        {
+          "title": "Market Research & Business Development Intern",
+          "bullets": [
+            "Conduct desk research on schools and potential partner locations",
+            "Collect and organize market data using Spreadsheets",
+            "Update the potential customer database weekly",
+            "Assist in estimating market size using provided frameworks (TAM–SAM–SOM)",
+            "Prepare short weekly summaries of findings",
+            "Support the team in comparing market potential across cities",
+            "Tools: Spreadsheets, Google Maps, Public School Directories, Official School Website"
+          ]
+        },
+        {
+          "title": "Social Media Research & Content Intern",
+          "bullets": [
+            "Research the Threads platform and its potential use",
+            "Compare Threads with other social media platforms",
+            "Study how Rollerskool's story and culture can be shared on Threads",
+            "Create sample content drafts for Threads",
+            "Document insights and provide weekly updates"
+          ]
+        },
+        {
+          "title": "SEO & Customer Insight Research Intern",
+          "bullets": [
+            "Conduct basic SEO keyword research",
+            "Observe how parents search for children's sports programs",
+            "Analyze competitor keywords and content",
+            "Collect parent insights under close supervision",
+            "Provide weekly progress updates"
+          ]
+        },
+        {
+          "title": "Learning Module Translation Intern",
+          "bullets": [
+            "Translate training materials into English",
+            "Simplify complex or long explanations into clear instructions",
+            "Adjust tone and wording to be suitable for coaches",
+            "Help organize content structure (headings, bullet points)",
+            "Work under mentor guidance and receive regular feedback"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "pupa-center",
+      "name": "Pupa Center",
+      "field": "Human Services",
+      "quota": 3,
+      "filled": 0,
+      "address": "Ruko The Prominence, Jl. Jalur Sutera Alam Sutera No.43 Blok 38E No. 42, RT.003/RW.006, Panunggangan Tim., Kec. Pinang, Kota Tangerang, Banten 15143",
+      "email": "info@pupacenter.com",
+      "notes": [],
+      "roles": [
+        {
+          "title": "Internship Program",
+          "bullets": [
+            "Create Easy-to-Read Content: Draft simple, visual guides, worksheets, or slideshows on practical topics like life skills, school, or workplace prep.",
+            "Format & Simplify Resources: Turn complex text into clear, neurodivergent-friendly formats using bullet points, simple headings, and icons.",
+            "Keep Files & Folders Organized: Maintain shared Google Drive folders, lesson plans, and project files so the team can quickly find what they need.",
+            "Assist with Event Logistics: Help schedule workshops, track participant RSVPs, send reminder notes, and monitor meeting chats during virtual events.",
+            "Gather & Track Feedback: Input participant survey responses into simple spreadsheets to help the team improve future programs.",
+            "Promote Accessibility & Inclusion: Contribute fresh ideas during weekly team check-ins on how to keep learning spaces low-pressure and sensory-friendly"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "bhumi-modern-living",
+      "name": "Bhumi Modern Living",
+      "field": "Architecture & Construction",
+      "quota": 3,
+      "filled": 1,
+      "address": "Jl. Gn. Indah VIII, Cireundeu, Kec. Ciputat Tim., Kota Tangerang Selatan, Banten 15419",
+      "email": "Satriacakra4@gmail.com",
+      "notes": [],
+      "roles": [
+        {
+          "title": "Internship Program",
+          "bullets": [
+            "Accounting: Organize receipts, enter project expenses into spreadsheets, and help track construction budgets.",
+            "Marketing: Draft social media posts, help create project presentation decks, and research new construction projects in the area.",
+            "Project Planning: Organize project files and blueprints, update project schedules, and track building permit updates.",
+            "General: Attend team meetings and assist project managers with daily administrative tasks."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "black-and-veatch",
+      "name": "Black and Veatch",
+      "field": "Science, Technology, Engineering & Mathematics",
+      "quota": 3,
+      "filled": 0,
+      "address": "Cibis Nine Building, 18th Floor Unit MN, Jl. TB Simatupang No.2, East Cilandak, South Jakarta City, 12560",
+      "email": "HutagalungC@bv.com",
+      "notes": [],
+      "roles": [
+        {
+          "title": "Internship Program",
+          "bullets": [
+            "Lead Mini-Sessions: Create and present 2-minute daily or weekly warm-ups, trivia, or discussion points for team meetings.",
+            "Make Safety Fun: Turn technical health and safety rules into easy-to-understand slide decks, posters, or group games.",
+            "Boost Team Spirit: Help plan small culture-building activities that make our office a welcoming and positive place to work.",
+            "Learn from Engineers: Work alongside project leaders and engineers to share real stories and celebrate team accomplishments."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sinedu-id",
+      "name": "Sinedu.id (Sinema Edukasi)",
+      "field": "Arts, Audio/Video Technology & Communications",
+      "quota": 3,
+      "filled": 0,
+      "address": "Jl. Keramat No.3A-C, RT.12/RW.1, Cilandak Tim., Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12560",
+      "email": "shantikadwi1707@gmail.com",
+      "notes": [],
+      "roles": [
+        {
+          "title": "Internship Program",
+          "bullets": [
+            "Develop Movie Learning Modules: Help design simple, engaging study guides and discussion prompts that turn films into educational tools for teachers, parents, and students.",
+            "Adapt Content for Social Media: Convert key takeaways from the learning modules into bite-sized posts, graphics, or short video scripts for social media channels.",
+            "Format & Polish Resources: Organize text, images, and film clips into clean, easy-to-read PDFs or visual slides for quick classroom or home use.",
+            "Assist with Event Logistics: Help set up, coordinate attendee lists, and manage tech or chat moderation for movie screenings, workshops, or webinars.",
+            "Research Relevant Themes: Watch select films to identify key educational themes, age appropriateness, and discussion points to support module creation.",
+            "Gather & Organize Feedback: Collect input from teachers and parents on how the modules are working to help the team improve future resources"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "grandwhiz-hotel",
+      "name": "Grandwhiz Hotel Simatupang",
+      "field": "Hospitality & Tourism",
+      "quota": 1,
+      "filled": 0,
+      "address": "Jl. R.A. Kartini No.1, RW.7, Lb. Bulus, Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12440",
+      "email": "poinsjakarta@grandwhiz.com",
+      "notes": [],
+      "roles": [
+        {
+          "title": "Front Desk Intern",
+          "bullets": [
+            "Greet and assist visitors in a professional manner",
+            "Answer and direct phone calls and emails",
+            "Schedule appointments and manage calendars",
+            "Maintain visitor logs and front desk records",
+            "Handle basic inquiries and provide information",
+            "Support administrative tasks (filing, data entry, document preparation)",
+            "Keep the reception area clean and organized"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "notary-rita-komala-dewi",
+      "name": "Notary Rita Komala Dewi",
+      "field": "Government & Public Administration",
+      "quota": 1,
+      "filled": 0,
+      "address": "Jl. Gedung Hijau Raya No. 80 E, Pondok Indah, Jakarta Selatan 12310",
+      "email": "rita.admnotaris@gmail.com",
+      "notes": [
+        "Must be fluent in Bahasa Indonesia!"
+      ],
+      "roles": [
+        {
+          "title": "Legal Intern (Notarial)",
+          "bullets": [
+            "Assisting in the organization and archiving of deeds (minuta), copies of deeds, and supporting legal documents.",
+            "Preparing and verifying the completeness of client documents required for deed drafting.",
+            "Supporting the preparation, drafting, and typing of notarial and/or PPAT deeds under supervision.",
+            "Assisting with legal research related to notarial, civil, and land law matters.",
+            "Assist in receiving clients and providing preliminary explanations regarding administrative requirements for deed preparation.",
+            "Providing administrative support in client services, including document follow-ups.",
+            "Assisting with legalization, notarization (waarmerking), and registration of documents, as well as other daily operational tasks."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "iwec-literacy-academy",
+      "name": "IWEC Literacy Academy",
+      "field": "Arts, Audio/Video Technology & Communications",
+      "quota": 1,
+      "filled": 0,
+      "address": "Jl. Kemang Raya No.10A, RT.10/RW.1, Bangka, Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
+      "email": "iwec.indonesia@gmail.com",
+      "notes": [],
+      "roles": [
+        {
+          "title": "Internship Program",
+          "bullets": [
+            "Content Creation: Write short articles, blog posts, original creative pieces, and newsletters for the academy's readers and social channels.",
+            "Workshop Support: Assist instructors during writing workshops, help prepare lesson materials, and mentor younger students with their writing prompts.",
+            "Editing & Proofreading: Help review, edit, and polish student writing submissions for academy publications or anthologies.",
+            "Literacy Projects: Brainstorm creative writing challenges, book recommendations, and community reading initiatives to keep students engaged."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "wibhisana-and-partners",
+      "name": "Wibhisana and Partners Law Firm",
+      "field": "Law, Public Safety, Corrections & Security",
+      "quota": 1,
+      "filled": 1,
+      "address": "The RANK Place, Jl. Pangeran Antasari Raya No.19 4, RT.4/RW.13, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430",
+      "email": "admin@wnplawfirm.com",
+      "notes": [
+        "Must be fluent in Bahasa Indonesia!"
+      ],
+      "roles": [
+        {
+          "title": "Lawyer Internship",
+          "bullets": [
+            "Basic Legal Research & Drafting: Perform preliminary background research on factual matters under attorney supervision; assist in drafting basic correspondence, client updates, and meeting summaries.",
+            "Observation & Learning: Shadow attorneys during client consultations, depositions, strategy sessions, and court proceedings.",
+            "Data Entry & Project Support: Enter case details into the law firm management system and assist with special practice-area projects (e.g., litigation support, real estate filings, or corporate compliance audits)."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "forum-keadilan",
+      "name": "Forum Keadilan",
+      "field": "Arts, Audio/Video Technology & Communications",
+      "quota": 2,
+      "filled": 2,
+      "address": "Jl. Ir. H. Juanda No.6, RT.14/RW.4, Kb. Klp., Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10120",
+      "email": "Angelamichelle2511@gmail.com",
+      "notes": [],
+      "roles": [
+        {
+          "title": "Editor Multimedia Intern",
+          "bullets": [
+            "Edit raw video, audio, and images into clear and engaging content, including podcast clips and field footage.",
+            "Enhance audio by adjusting music, voice-overs, dialogue, and sound effects.",
+            "Collaborate with the production and editorial teams while following journalistic standards.",
+            "Manage time well and meet deadlines under pressure.",
+            "Communicate clearly to understand and apply team instructions."
+          ]
+        },
+        {
+          "title": "Journalist Intern",
+          "tbc": true,
+          "bullets": [
+            "Job description to be confirmed. Please ask the Internship Facilitator."
+          ]
+        }
+      ]
+    }
+  ]
+}

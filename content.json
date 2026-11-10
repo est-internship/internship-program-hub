@@ -1,0 +1,666 @@
+{
+  "roadmap": [
+    {
+      "id": "before-you-start",
+      "phase": 1,
+      "title": "Before You Start",
+      "timing": "1–2 weeks before day one",
+      "tagline": "Do the boring prep now, so your first day feels calm and easy.",
+      "steps": [
+        {
+          "title": "Decode the dress code",
+          "text": "Message your mentor: \"What should I wear on my first day?\" If you are not sure, choose clothes that are neat, clean and a little more formal than you think you need. Ask if you need closed shoes, a uniform or safety gear."
+        },
+        {
+          "title": "Plan your route (and a Plan B)",
+          "text": "Do a trial trip at the same time of day you will travel. Know how long it takes, where you get off, and what you will do if your bus, train or ride is delayed. Aim to arrive 10–15 minutes early."
+        },
+        {
+          "title": "Pack your essentials",
+          "text": "Laptop, notebook and pen, a charged phone and power bank, water, your own lunch, and your mentor's phone number saved in your contacts. Put everything in your bag the night before."
+        },
+        {
+          "title": "Return your signed forms",
+          "text": "Give your signed parent/guardian and school permission forms to the Internship Facilitator before your start date, and keep a photo of them on your phone. Many workplaces cannot let you start without them."
+        }
+      ]
+    },
+    {
+      "id": "first-week",
+      "phase": 2,
+      "title": "First Week Jitters",
+      "timing": "Your first week",
+      "tagline": "Everyone feels nervous at first. Being polite and curious matters more than being perfect.",
+      "steps": [
+        {
+          "title": "Introduce yourself clearly",
+          "text": "Smile, say your name, your school and what you will be helping with: \"Hi, I'm [Your Name], an intern from [School Name]. I'm excited to learn here!\" Write down people's names so you can use them next time."
+        },
+        {
+          "title": "Put your phone away",
+          "text": "Keep it on silent and in your bag or pocket. Use it for work or emergencies only, and check personal messages during breaks. If you really need to check something, ask: \"May I quickly check a message from my parent?\""
+        },
+        {
+          "title": "Take active notes",
+          "text": "Write down instructions, names and new words. Repeat the task back to check you understood: \"So I should do this by Friday, and save it in the shared folder, right?\""
+        },
+        {
+          "title": "Ask questions the safe way",
+          "text": "Ask early, ask once, and write the answer down. Try first, then ask with what you already know: \"I tried this and got stuck here. Could you show me how you'd like it done?\" Good questions make you look smart, not clueless."
+        }
+      ]
+    },
+    {
+      "id": "settling-in",
+      "phase": 3,
+      "title": "Settling In",
+      "timing": "The middle weeks",
+      "tagline": "You know the basics now. This is where you grow.",
+      "steps": [
+        {
+          "title": "Collect small wins",
+          "text": "Finish tasks on time, double-check your work, and tell your mentor when something is done. Small, reliable wins build confidence for you and trust from your team."
+        },
+        {
+          "title": "Take initiative on small tasks",
+          "text": "Once your main task is done, ask: \"Is there anything else I can help with?\" You can also offer easy, low-risk help such as organising files, restocking supplies or writing a short summary of a meeting."
+        },
+        {
+          "title": "Ask for help when you're stuck",
+          "text": "Try for about 10–15 minutes, then ask. Say what you tried and where you got stuck. Staying silent while stuck causes bigger problems than asking a question."
+        }
+      ]
+    },
+    {
+      "id": "wrapping-up",
+      "phase": 4,
+      "title": "Wrapping Up",
+      "timing": "Your final week",
+      "tagline": "Finish up neatly, People remember how you leave.",
+      "steps": [
+        {
+          "title": "Say thank you in person",
+          "text": "Thank your mentor and teammates by name. Mention one specific thing you learned or enjoyed. A sincere sentence beats a long speech."
+        },
+        {
+          "title": "Finish your records and send a thank-you",
+          "text": "Complete your hours log and final reflection, ask for one last piece of feedback, and send a short thank-you message on your final day."
+        }
+      ]
+    }
+  ],
+  "safety": [
+    {
+      "id": "hours-breaks",
+      "title": "Working Hours & Breaks",
+      "summary": "You are there to learn, so your schedule should be safe, fair and agreed in advance.",
+      "items": [
+        {
+          "q": "How long and when can I work?",
+          "a": "Young people under 18 usually have extra protections, such as limits on long days and no late-night work. Follow the days and hours set by your school's internship plan and agreed with your mentor. Do not agree to extra days or late shifts without telling the Internship Facilitator first."
+        },
+        {
+          "q": "Do I get breaks?",
+          "a": "Yes. You should be able to eat, drink water, rest and use the bathroom. On day one, ask: \"What time is lunch, and where can I eat?\" If you are regularly asked to skip breaks, tell the Internship Facilitator."
+        },
+        {
+          "q": "What if I am asked to stay later?",
+          "a": "Agree on your finishing time before you start. If someone asks you to stay later, it is fine to say: \"Let me check with my parent and the school first.\" Then send a message to the Internship Facilitator."
+        },
+        {
+          "q": "How do I balance internship and schoolwork?",
+          "a": "Plan ahead. Finish homework the day before your internship day, tell your teachers which day you will be out, and write deadlines in your calendar. If you feel buried, talk to your advisor early, not on the night before something is due."
+        }
+      ]
+    },
+    {
+      "id": "dress-code",
+      "title": "Dress Code Decode",
+      "summary": "Dress codes sound confusing, but they are simple once you know the words.",
+      "items": [
+        {
+          "q": "What is \"business casual\"?",
+          "a": "Neat and professional, but not a full suit.",
+          "list": [
+            "A collared shirt, blouse or neat top",
+            "Long pants, chinos, or a skirt or dress to the knee",
+            "Closed shoes",
+            "Avoid: ripped jeans, flip-flops, crop tops, large slogans"
+          ]
+        },
+        {
+          "q": "What is \"smart casual\"?",
+          "a": "Relaxed, but clearly tidy.",
+          "list": [
+            "Clean dark jeans or chinos",
+            "A neat top without big graphics",
+            "Clean sneakers or loafers",
+            "Avoid: wrinkled, stained or torn clothes"
+          ]
+        },
+        {
+          "q": "What if it is a formal office (law, banking, notary)?",
+          "a": "Dress one level up from business casual: a blazer or jacket, formal shirt or blouse, and closed shoes. If you are unsure, ask your mentor what people usually wear."
+        },
+        {
+          "q": "What about safety gear (PPE)?",
+          "a": "Some places need a helmet, high-visibility vest, safety boots, glasses or gloves. Wear the gear every time you are told to, even for a \"quick visit\". Ask who provides it, and never skip it because it is uncomfortable. If you wear religious or cultural dress, tell your mentor early so you can plan safe and comfortable options together."
+        },
+        {
+          "q": "What if I am still not sure?",
+          "a": "Message your mentor: \"Is [outfit idea] okay for the office?\" On your first day, dress one level more formal than you think. It is easy to relax later."
+        }
+      ]
+    },
+    {
+      "id": "phone-social",
+      "title": "Cell Phone & Social Media Etiquette",
+      "summary": "Your phone is useful, but at work it can cause trouble quickly.",
+      "items": [
+        {
+          "q": "When can I use my phone?",
+          "a": "Keep it on silent and out of sight while you work. Use it for work tasks, emergencies, or during breaks. If you need to take an important personal call, say: \"Sorry, may I step outside for a minute? It's urgent.\""
+        },
+        {
+          "q": "Can I take photos or videos at work?",
+          "a": "Ask first, every time. Never photograph people without permission, and never photograph screens, documents, client information or products that are not public. Some workplaces, like law firms, notary offices and hotels, handle private information, so the safest answer is no photos unless someone says yes."
+        },
+        {
+          "q": "Can I post about my internship?",
+          "a": "Only after your mentor says it is okay. Even then, do not share names, client details, documents or complaints. Remember that anything you post can be screenshotted, shared and found years later, including by colleges and future employers."
+        },
+        {
+          "q": "How should I message coworkers?",
+          "a": "Keep messages polite and about work, using official work channels or group chats when possible. If an adult at work asks you to move to private chats about non-work topics, or asks for private photos, tell the Internship Facilitator and your parent or guardian."
+        }
+      ]
+    },
+    {
+      "id": "transport",
+      "title": "Transportation & Logistics",
+      "summary": "Most lateness problems can be solved with a plan and one short message.",
+      "items": [
+        {
+          "q": "How do I plan my trip?",
+          "a": "Test the route before day one at the same time of day. Leave at least 15 minutes earlier than you think you need, and always have a Plan B such as a different bus or train, or a ride-hailing app. On rainy days, leave even earlier."
+        },
+        {
+          "q": "What if my transport is delayed?",
+          "a": "Message your mentor as soon as you know you will be late, not after you arrive. Say how late you expect to be, and keep it short and polite. Use Template A in the Templates section."
+        },
+        {
+          "q": "How do I travel safely?",
+          "a": "Tell a parent or guardian your route and the time you expect to arrive and to leave. Do not accept rides from mentors or coworkers unless your parent or guardian has agreed in advance. If you finish later than planned, let your family know before you start your trip home."
+        },
+        {
+          "q": "What if I will miss a day?",
+          "a": "Tell your mentor as early as possible, ideally before your start time, then tell the Internship Facilitator. Offer to catch up on missed work. Do not just disappear without a message."
+        }
+      ]
+    },
+    {
+      "id": "safety-red-flags",
+      "title": "Safety & Red Flags",
+      "summary": "You have the right to feel safe. If something feels wrong, you do not need proof to speak up.",
+      "items": [
+        {
+          "q": "What are red flags?",
+          "a": "Tell a trusted adult if any of these happen:",
+          "list": [
+            "You are asked to use machines, climb or lift heavy things without training or safety gear",
+            "You are pressured to skip breaks, work extra days or stay late",
+            "Someone makes comments about your body, jokes that feel uncomfortable, or touches you in a way you don't like",
+            "An adult asks you to keep secrets from your parents or school",
+            "You are repeatedly alone in a closed room with one adult and you feel uneasy",
+            "You are shouted at, humiliated or bullied",
+            "You are asked for private photos, personal chats, money or alcohol"
+          ]
+        },
+        {
+          "q": "What should I do right away?",
+          "a": "Trust your feeling and follow these steps:",
+          "list": [
+            "Move to where other people are",
+            "Say a clear \"No, I'm not comfortable with that\" if you can",
+            "Leave if you need to. You do not need permission to stay safe",
+            "Tell a trusted adult the same day",
+            "Write down what happened: date, time, place, what was said or done"
+          ]
+        },
+        {
+          "q": "Who can I contact?",
+          "a": "Pick the person you trust most. You can contact more than one.",
+          "list": [
+            "Your parent or guardian",
+            "The Internship Facilitator at school",
+            "Your advisor",
+            "Your mentor, if the issue is about workload, a task or a safety rule",
+            "Emergency services (112 in Indonesia) if you or someone else is in danger or hurt"
+          ]
+        },
+        {
+          "q": "What if I just feel overwhelmed, not unsafe?",
+          "a": "That is very normal. Take a 60-second reset (see the Home page), drink water, and tell your mentor if the workload feels too big: \"I'm finding this a lot. Could we look at my priorities together?\" If the stress continues, talk to your advisor or a school counsellor. Asking for help is a strong move."
+        },
+        {
+          "q": "Will I get in trouble for speaking up?",
+          "a": "Speaking up is the right thing to do, and what happened is never your fault. You are there as a student, and the adults at school are there to support you."
+        }
+      ]
+    }
+  ],
+  "trustedContacts": [
+    {
+      "who": "Your mentor",
+      "when": "Everyday questions, workload, tasks and being late."
+    },
+    {
+      "who": "Internship Facilitator",
+      "when": "Schedule, hours, company problems, or anything that doesn't feel right."
+    },
+    {
+      "who": "Your advisor",
+      "when": "Stress, balancing schoolwork, or if you want to talk it through."
+    },
+    {
+      "who": "Parent or guardian",
+      "when": "Any time you feel unsafe or unsure. Tell them early."
+    },
+    {
+      "who": "Emergency: 112",
+      "when": "If you or someone else is in danger or hurt. PRIORITIZE YOUR SAFETY!"
+    }
+  ],
+  "calmReset": {
+    "title": "60-second reset",
+    "intro": "Feeling nervous or overwhelmed? Try this before you walk in, during a break, or any time your head feels full.",
+    "steps": [
+      "Breathe in through your nose for 4 seconds, hold for 4, breathe out slowly for 4, hold for 4. Repeat 4 times.",
+      "Look around and name 5 things you can see and 4 things you can touch.",
+      "Drop your shoulders, unclench your jaw and drink some water.",
+      "Tell yourself: \"I'm here to learn, not to be perfect.\""
+    ]
+  },
+  "templates": [
+    {
+      "id": "late-absent",
+      "letter": "A",
+      "title": "Running Late / Absence Notification",
+      "when": "Use this when you are stuck in traffic, your transport is delayed, or you are too sick to come in.",
+      "variants": [
+        {
+          "label": "I'm running late",
+          "subject": "Running late today – [Your Name]",
+          "body": "Hi [Mentor Name],\n\nThis is [Your Name], the intern from [School Name]. I'm sorry to let you know that I'm running late today because [short reason, e.g. my train was delayed / there is heavy traffic].\n\nI expect to arrive at about [new arrival time]. I will message you straight away if this changes.\n\nThank you for understanding.\n\nBest regards,\n[Your Name]\n[School Name]\n[Phone number]"
+        },
+        {
+          "label": "I can't come in",
+          "subject": "Unable to come in on [Date] – [Your Name]",
+          "body": "Hi [Mentor Name],\n\nThis is [Your Name], the intern from [School Name]. I'm sorry for the short notice, but I'm not able to come in on [Date] because [short reason, e.g. I'm not feeling well].\n\nI will catch up on anything I miss when I'm back on [next internship day]. If there is something I can do from home, please let me know.\n\nThank you for understanding, and I'm sorry for any inconvenience.\n\nBest regards,\n[Your Name]\n[School Name]\n[Phone number]"
+        }
+      ],
+      "tips": [
+        "Send it as early as you can, not after you arrive.",
+        "Keep the reason short and honest. No long explanations needed.",
+        "Also let the Internship Facilitator at school know if you will miss a full day."
+      ]
+    },
+    {
+      "id": "feedback",
+      "letter": "B",
+      "title": "Asking for Feedback / Checking In",
+      "when": "Use this around the middle of your internship, or any time you want to know \"How am I doing?\"",
+      "variants": [
+        {
+          "label": "Check-in request",
+          "subject": "Quick check-in – [Your Name]",
+          "body": "Hi [Mentor Name],\n\nI hope your week is going well. I'm really enjoying working on [task or project], and I'm learning a lot.\n\nWhen you have a few minutes, could we have a short check-in? I'd love to hear how I'm doing so far, what I'm doing well, and one thing I can improve. I'm especially interested in getting better at [skill or area].\n\nI'm free on [day/time options] if that works for you.\n\nThank you for your time and your help!\n\nBest regards,\n[Your Name]"
+        }
+      ],
+      "tips": [
+        "Ask in person if you can, and use this message if the person is busy or not in the office.",
+        "Write down the feedback you get and say thank you, even if it is hard to hear.",
+        "Turn feedback into an action: \"Next week I'll try [improvement].\""
+      ]
+    },
+    {
+      "id": "new-task",
+      "letter": "C",
+      "title": "Asking for a New Task",
+      "when": "Use this when you finished your work and want to keep learning and helping.",
+      "variants": [
+        {
+          "label": "I finished, what's next?",
+          "subject": "Finished [Task Name] – what should I do next?",
+          "body": "Hi [Mentor Name],\n\nI've finished [task name], and the file is saved in [folder or location]. Could you take a look when you have a moment? I'm happy to fix anything that needs changing.\n\nIn the meantime, is there another task I can help with? If you're busy, I can also [your idea, e.g. organise the shared folder / research [topic] / help [Colleague Name] with their project].\n\nThank you!\n\nBest regards,\n[Your Name]"
+        }
+      ],
+      "tips": [
+        "Check your work and re-read the instructions before you send this.",
+        "Offering one or two ideas shows initiative and makes it easier for your mentor to answer."
+      ]
+    },
+    {
+      "id": "thank-you",
+      "letter": "D",
+      "title": "Final Day Thank-You Note",
+      "when": "Send this on your last day, to your mentor and the team you worked with.",
+      "variants": [
+        {
+          "label": "Thank-you note",
+          "subject": "Thank you – [Your Name]",
+          "body": "Dear [Mentor Name] and team,\n\nToday is my last day as an intern at [Company Name], and I wanted to say a big thank you.\n\nI'm especially grateful for [something specific, e.g. you taking the time to teach me how to...]. One thing I'll remember from this experience is [lesson or favourite moment]. Thank you also to [Colleague Name] for [what they did].\n\nThis internship helped me understand [what you learned about the industry or about yourself], and I'll take it with me in my studies and future work.\n\nI hope to stay in touch. You can reach me at [email address].\n\nWith thanks,\n[Your Name]\n[School Name]"
+        }
+      ],
+      "tips": [
+        "Be specific. One real detail is better than a long message.",
+        "Send it on your last day or the next morning, while people still remember you."
+      ]
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "mistake",
+      "question": "I made a mistake. Am I in trouble?",
+      "situation": "You were saving a document and accidentally replaced the wrong file in the shared folder. Or you spilled something on a desk, or broke a small piece of equipment.",
+      "recommended_action": "Tell your mentor as soon as you notice, calmly and with the facts: what happened, what you have already done, and how you can help fix it. Do not hide it, blame others or wait for someone to find out. Then ask, \"What should I do to fix this, and how can I avoid it next time?\"",
+      "why_it_works": "Early honesty gives your team time to fix the problem, and mentors expect interns to make mistakes. What they remember is whether you were honest and responsible. Hiding a small mistake can turn it into a big one.",
+      "try_saying": "\"I need to tell you about a mistake I made. I saved over the wrong file in the shared folder. I haven't touched it since. Can you help me restore the old version?\""
+    },
+    {
+      "id": "finished-early",
+      "question": "I finished my work early. What now?",
+      "situation": "You completed your assigned task before lunch, and everyone around you looks busy. You don't want to sit around, and you don't want to scroll on your phone.",
+      "recommended_action": "Check your work once more, then tell your mentor: \"I've finished [task]. What would you like me to work on next?\" Add one or two ideas of your own. If your mentor is busy, do low-risk useful things like organising files, reading company materials or practising a skill, and keep your phone away.",
+      "why_it_works": "Reporting back shows reliability, and offering ideas shows initiative. You make your mentor's job easier because they don't need to guess whether you are busy, lost or bored.",
+      "try_saying": "\"I've finished the spreadsheet and saved it in the team folder. Could you check it? If you're busy, I can start organising last month's files. Would that help?\""
+    },
+    {
+      "id": "jargon",
+      "question": "Everyone is using words I don't understand.",
+      "situation": "In a meeting or while someone is explaining a task, they use short forms, technical words or workplace slang such as \"KPI\", \"ASAP\", \"the deck\" or \"circle back\", and you have no idea what they mean.",
+      "recommended_action": "Write the word down so you don't forget it. Then ask politely at a good moment: \"Sorry, could you explain what [word] means?\" or look it up later and check your understanding with someone. Keep a small \"jargon list\" in your notebook with each word and its meaning.",
+      "why_it_works": "Every person at work once had to learn these words. Asking shows you care about doing the job right, and it prevents mistakes caused by guessing. Your jargon list also becomes a nice record of what you learned for your reflection log.",
+      "try_saying": "\"Sorry, I'm new to this. What does 'KPI' mean? I'd like to make sure I understand the task properly.\""
+    },
+    {
+      "id": "lunch-nerves",
+      "question": "I get nervous talking to adults at lunch.",
+      "situation": "It is break time. The adults are chatting at the table and you feel awkward. You are tempted to sit alone and look at your phone.",
+      "recommended_action": "Join them, even for a few minutes. Start with easy questions about them, like \"How long have you worked here?\", \"What do you like most about your job?\" or \"How did you get into this field?\" Listen and show interest. Set a small goal, such as one short conversation each week. Keep it friendly and professional: avoid gossip and very personal questions. If you need a break, it is fine to take a short walk.",
+      "why_it_works": "Most adults enjoy talking about their work and how they started. Questions take the pressure off you, and every small conversation builds your confidence and your network.",
+      "try_saying": "\"Hi, may I sit here? I'm the intern this month. How long have you been working here?\""
+    }
+  ],
+  "recap": {
+    "intro": "A one-page refresher. Read it the night before your first day, or any time you need a reset.",
+    "goldenRules": [
+      {
+        "title": "Be early",
+        "text": "Arrive 10–15 minutes before your start time. If you are delayed, message your mentor as soon as you know."
+      },
+      {
+        "title": "Phone away",
+        "text": "Silent and in your bag. ASK before taking any documentations."
+      },
+      {
+        "title": "Write it down",
+        "text": "Names, instructions, tasks and things you deem important."
+      },
+      {
+        "title": "Ask early, ask once",
+        "text": "Try for 10–15 minutes, then ask. Say what you tried and where you got stuck."
+      },
+      {
+        "title": "Own your mistakes",
+        "text": "Tell your mentor quickly and calmly, and offer an idea to fix it."
+      },
+      {
+        "title": "Finish and report back",
+        "text": "Say \"done\", then ask what you can do next."
+      },
+      {
+        "title": "Speak up if it feels wrong",
+        "text": "Move to where people are and tell a trusted adult the same day."
+      }
+    ],
+    "phaseChecks": [
+      {
+        "phase": "Before You Start",
+        "items": [
+          "Dress code confirmed",
+          "Route tested, with a Plan B",
+          "Bag packed: laptop, notebook, pen, charger, water"
+        ]
+      },
+      {
+        "phase": "First Week",
+        "items": [
+          "Introduced myself and learned names",
+          "Phone on silent and away",
+          "Notebook ready for notes",
+          "Asked my first question"
+        ]
+      },
+      {
+        "phase": "Settling In",
+        "items": [
+          "Writing my hours and tasks in my internship log",
+          "Offered help after finishing a task",
+          "Asked for feedback (Template B)",
+          "Asked for help when I got stuck"
+        ]
+      },
+      {
+        "phase": "Wrapping Up",
+        "items": [
+          "Thanked my mentor and team",
+          "Asked for my internship completion signature",
+          "Make sure all of my log's reviewed, completed and signed",
+          "Sent my thank-you note (Template D)"
+        ]
+      }
+    ],
+    "quickFixes": [
+      {
+        "situation": "I'm going to be late",
+        "fix": "Message your mentor as soon as you know, with your new arrival time.",
+        "route": "templates",
+        "button": "Template A"
+      },
+      {
+        "situation": "I made a mistake",
+        "fix": "Tell your mentor right away, say what happened and offer to help fix it.",
+        "route": "scenarios",
+        "button": "See scenario"
+      },
+      {
+        "situation": "I'm stuck on a task",
+        "fix": "Try for 10–15 minutes, then ask: \"I tried this and got stuck here. Could you show me?\"",
+        "route": "roadmap",
+        "button": "See roadmap"
+      },
+      {
+        "situation": "I finished early",
+        "fix": "Report back and suggest one or two things you could do next.",
+        "route": "templates",
+        "button": "Template C"
+      },
+      {
+        "situation": "I feel overwhelmed",
+        "fix": "Take a 60-second reset, drink water, and tell your mentor if your workload feels too big.",
+        "route": "stress",
+        "button": "Reset"
+      },
+      {
+        "situation": "Something feels wrong or unsafe",
+        "fix": "Move to where people are, leave if you need to, and tell a trusted adult today.",
+        "route": "redflags",
+        "button": "Safety"
+      }
+    ],
+    "logPromptsIntro": "Your school's internship log is where your hours and reflections go. If you are not sure what to write, use these prompts to fill it in.",
+    "logPrompts": [
+      {
+        "id": "new-skill",
+        "prompt": "What new skill did I try today?",
+        "starter": "Today I tried ___ for the first time. I used it to ___.",
+        "why_it_helps": "Builds a list of skills for your resume and college applications."
+      },
+      {
+        "id": "challenge",
+        "prompt": "What was the most challenging thing today, and how did I handle it?",
+        "starter": "The hardest part was ___. I handled it by ___. Next time I will ___.",
+        "why_it_helps": "Shows problem-solving and resilience, which interviewers and teachers like to hear about."
+      },
+      {
+        "id": "industry",
+        "prompt": "What is one thing I learned about this industry or workplace?",
+        "starter": "I learned that people in this field ___. I was surprised by ___.",
+        "why_it_helps": "Helps you decide whether this career is right for you, and gives you something real to write in essays."
+      },
+      {
+        "id": "people",
+        "prompt": "Who helped me or taught me something today, and what did I learn from them?",
+        "starter": "___ showed me how to ___. The best advice I got today was ___.",
+        "why_it_helps": "Reminds you who to thank and who to ask for advice next time."
+      },
+      {
+        "id": "next-goal",
+        "prompt": "What is one thing I want to do better or try next time?",
+        "starter": "Next time I will ___ so that I can ___.",
+        "why_it_helps": "Turns each day into progress and gives you ideas for your end-of-internship summary."
+      }
+    ]
+  },
+  "ai": {
+    "intro": "AI tools can be a great helper at work. They can also get you in trouble if you use them the wrong way. This page shows you how to use AI smartly, honestly and safely, while still doing the learning yourself.",
+    "bigIdea": {
+      "title": "AI is your helper, not your replacement",
+      "text": "You are at your internship to learn, think and build real skills. If AI does all of the work, you learn nothing and your mentor never sees what you can do. Use AI to support your thinking, never to replace it. And remember: you are always responsible for what you hand in, even if AI helped."
+    },
+    "traffic": [
+      {
+        "light": "go",
+        "label": "Go",
+        "title": "Usually fine (if your workplace allows AI)",
+        "note": "Use AI as a coach or helper while you do the real work.",
+        "items": [
+          "Explaining a word, concept or tool you don't understand",
+          "Brainstorming ideas that you then choose from and develop yourself",
+          "Checking spelling and grammar in something you wrote",
+          "Practising how to say something, like an email or a question",
+          "Learning how to do something, such as a spreadsheet formula, step by step"
+        ]
+      },
+      {
+        "light": "ask",
+        "label": "Ask first",
+        "title": "Check with your mentor before you do this",
+        "note": "These can be okay, but only if your mentor agrees and knows about it.",
+        "items": [
+          "Drafting an email, message or report that someone else will read",
+          "Summarising a long document or meeting notes",
+          "Translating work documents",
+          "Making images, slides or videos for the company",
+          "Writing code or formulas that will be used in the company's systems"
+        ]
+      },
+      {
+        "light": "stop",
+        "label": "Stop",
+        "title": "Don't do this",
+        "note": "These can hurt the company, other people or you.",
+        "items": [
+          "Pasting private or confidential information into a public AI tool",
+          "Using AI after your mentor or school said not to",
+          "Handing in AI work as if you wrote it all yourself, or hiding that you used it",
+          "Using facts, numbers or quotes from AI without checking them",
+          "Making fake or misleading content about real people, like fake messages, photos, voices or videos"
+        ]
+      }
+    ],
+    "principles": [
+      {
+        "title": "Ask first",
+        "text": "Rules about AI are different in every workplace. On day one, ask your mentor: \"Are we allowed to use AI tools here, and which ones?\" Also follow your school's rules."
+      },
+      {
+        "title": "Protect private information",
+        "text": "Do not type client names, contracts, documents, ID numbers, phone numbers, passwords, money details or anything marked internal into a public AI tool. Many tools can store what you type, so treat it as something that could leave the company. If you need help with a task like this, ask your mentor which tool is approved, or remove all names and details first."
+      },
+      {
+        "title": "Check everything",
+        "text": "AI can sound very sure and still be wrong. It can invent facts, numbers, names and even sources. Check important information against a trusted source, such as the company's own materials, an official website or your mentor. Read the whole answer before you use any of it."
+      },
+      {
+        "title": "Be honest about it",
+        "text": "If AI helped you, tell your mentor in a short, simple way. Being open builds trust, and hiding it is what gets people in trouble. Your school's internship log and reflections should be your own words and your own experience, so ask the Internship Facilitator what is allowed."
+      },
+      {
+        "title": "Try first, then ask AI",
+        "text": "Give the task your own try first. Then use AI to explain, give feedback or quiz you. Ask \"explain this step by step\" or \"what could I improve in my draft?\" instead of \"do it for me\". If you cannot explain your work in your own words, you are not ready to hand it in."
+      }
+    ],
+    "situations": [
+      {
+        "q": "My mentor asked me to summarise a long report. Can I let AI do it?",
+        "a": "Only if your mentor says AI is allowed, and the report is not private. If you are allowed, use AI as a starting point, not as the final answer.",
+        "list": [
+          "Read the report yourself first",
+          "Remove names and private details before using any tool",
+          "Check the summary against the report and fix mistakes",
+          "Rewrite it in your own words, then tell your mentor AI helped"
+        ]
+      },
+      {
+        "q": "I pasted private information into an AI tool by mistake. What now?",
+        "a": "Tell your mentor straight away. Staying quiet makes it worse, and mentors know what steps to take. Say what you pasted, which tool you used, and that you will not do it again. Mistakes like this happen, and the honest ones are much easier to fix. See the \"Say it like this\" message below."
+      },
+      {
+        "q": "AI gave me a number or quote and I can't find where it comes from.",
+        "a": "Don't use it. Either find a trusted source that confirms it, or leave it out. If you must mention it, say clearly that you could not verify it. Never put unchecked AI facts into work for the company."
+      },
+      {
+        "q": "My mentor said no AI, but other people in the office use it.",
+        "a": "Follow your mentor's rule. Different teams and roles can have different rules, and you are a guest in their workplace. If you are not sure, ask politely: \"Could you tell me when AI is okay and when it isn't?\""
+      },
+      {
+        "q": "Can I use AI for my internship log or reflection?",
+        "a": "Your log should show your own experience and thinking. Check your school's rules with the Internship Facilitator. If light help such as spelling or grammar is allowed, make sure the ideas and words are yours, and say so if you are asked."
+      },
+      {
+        "q": "What if AI could do my task in 5 seconds? Why should I bother?",
+        "a": "Because the goal is for you to learn. Employers and universities care about how you think, solve problems and communicate, which AI cannot do for you. Doing the task yourself, then using AI to improve it, makes you better each time."
+      }
+    ],
+    "scripts": [
+      {
+        "id": "ask",
+        "title": "Asking if AI is allowed",
+        "when": "Send this at the start, or before you use AI for a task.",
+        "text": "Hi [Mentor Name],\n\nI'd like to check the rules about AI tools. Is it okay for me to use AI (for example [tool name]) to help with [task]? If yes, is there anything I must not put into it, such as client or company information?\n\nThank you!\n[Your Name]"
+      },
+      {
+        "id": "tell",
+        "title": "Telling your mentor you used AI",
+        "when": "Add this when you hand in work that AI helped with.",
+        "text": "Hi [Mentor Name],\n\nHere is [task]. I used [tool name] to help me [brainstorm / check my grammar / understand the topic]. I checked the facts myself and wrote the final version in my own words. Please let me know if you'd like me to do anything differently.\n\nThank you,\n[Your Name]"
+      },
+      {
+        "id": "slip",
+        "title": "I made an AI mistake",
+        "when": "Use this if you pasted something private by accident.",
+        "text": "Hi [Mentor Name],\n\nI need to tell you about a mistake. I accidentally pasted [what you pasted] into [tool name]. I'm very sorry. I have not shared it anywhere else and I will not do it again. What should I do next?\n\nThank you,\n[Your Name]"
+      }
+    ],
+    "preSubmit": [
+      "I asked if AI is allowed for this task",
+      "I kept private information out of the tool",
+      "I checked the facts and numbers",
+      "I can explain the work in my own words",
+      "I told my mentor that AI helped"
+    ],
+    "reminder": "Rules about AI change quickly and are different in every place. Your workplace's rules and your school's rules always come first. If you are unsure, ask your mentor or the Internship Facilitator before you use AI."
+  }
+}
