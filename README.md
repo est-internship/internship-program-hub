@@ -5,7 +5,7 @@ One password-protected website with two sides: the **Internship Hub** (companies
 Files:
 - `index.html` is the website (design and password lock). The page content is encrypted inside it.
 - `content.json` is the written content of the **Survival Guide**.
-- `companies.json` is the **Internship Hub** data: dates in `settings`, and one block per company in `companies` (name, field, quota, filled, address, roles).
+- `companies.json` is the **Internship Hub** data: dates in `settings`, and one block per company in `companies` (name, field, quota, filled, address, url, roles). `url` is the company webpage; leave it as an empty "" if there is none yet, and the link and webpage box are hidden..
 - `.nojekyll` is an empty helper file for GitHub Pages. Keep it.
 
 ## Put it online with GitHub Pages (free)

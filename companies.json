@@ -1,13 +1,14 @@
 {
   "settings": {
     "grade1112": "18 September – 18 December 2026",
-    "grade10Dates": "13 January – 13 April",
+    "grade10Dates": "7 January – 7 April",
     "grade10Year": "2027",
     "minMeetings": 14
   },
   "companies": [
     {
       "id": "rollerskool",
+      "url": "https://www.autorymudaindonesia.com/",
       "name": "PT Autory Muda (RollerSkool)",
       "field": "Education & Training",
       "quota": 4,
@@ -61,6 +62,7 @@
     },
     {
       "id": "pupa-center",
+      "url": "https://www.pupacenter.org/id/",
       "name": "Pupa Center",
       "field": "Human Services",
       "quota": 3,
@@ -82,6 +84,7 @@
     },
     {
       "id": "bhumi-modern-living",
+      "url": "https://www.instagram.com/hidup.di.bhumi/?hl=en",
       "name": "BHUMI Modern Living",
       "field": "Architecture & Construction",
       "quota": 3,
@@ -93,8 +96,8 @@
           "title": "Internship Program",
           "bullets": [
             "Accounting: Organize receipts, enter project expenses into spreadsheets, and help track construction budgets.",
-            "Marketing: Draft social media posts, help create project presentation decks, research new construction projects in the area, and build promotional campaigns to market finished interior spaces.",
-            "Interior & Spatial Design: Create interior concepts, select materials and furnishings, and produce basic floor plans or visual mockups for client spaces.",
+            "Marketing: Draft social media posts, help create project presentation decks, and research new construction projects in the area.",
+            "Project Planning: Organize project files and blueprints, update project schedules, and track building permit updates.",
             "General: Attend team meetings and assist project managers with daily administrative tasks."
           ]
         }
@@ -102,6 +105,7 @@
     },
     {
       "id": "black-and-veatch",
+      "url": "https://www.bv.com/perspectives/accelerating-clean-energy-development-in-indonesia",
       "name": "Black & Veatch",
       "field": "Science, Technology, Engineering & Mathematics",
       "quota": 3,
@@ -122,6 +126,7 @@
     },
     {
       "id": "sinedu-id",
+      "url": "https://www.instagram.com/sineduid/",
       "name": "Sinedu.Id",
       "field": "Arts, Audio/Video Technology & Communications",
       "quota": 3,
@@ -143,6 +148,7 @@
     },
     {
       "id": "grandwhiz-hotel",
+      "url": "https://grandwhiz.intiwhiz.com/poinssimatupang/home.php",
       "name": "Grandwhiz Hotel",
       "field": "Hospitality & Tourism",
       "quota": 1,
@@ -164,6 +170,7 @@
     },
     {
       "id": "notary-rita-komala-dewi",
+      "url": "",
       "name": "Notary",
       "field": "Government & Public Administration",
       "quota": 1,
@@ -186,6 +193,7 @@
     },
     {
       "id": "iwec-literacy-academy",
+      "url": "https://www.iwecindonesia.com/",
       "name": "IWEC Academy",
       "field": "Arts, Audio/Video Technology & Communications",
       "quota": 1,
@@ -206,6 +214,7 @@
     },
     {
       "id": "wibhisana-and-partners",
+      "url": "",
       "name": "Wibhisana and Partners Law Firm",
       "field": "Law, Public Safety, Corrections & Security",
       "quota": 1,
@@ -227,6 +236,7 @@
     },
     {
       "id": "forum-keadilan",
+      "url": "https://www.youtube.com/@forumkeadilanTV",
       "name": "Forum Keadilan",
       "field": "Arts, Audio/Video Technology & Communications",
       "quota": 2,
@@ -258,6 +268,7 @@
     },
     {
       "id": "scura-salix-sanctuary",
+      "url": "https://sthree.co.id/",
       "name": "Scura Salix Sanctuary",
       "field": "Information Technology",
       "quota": 3,
