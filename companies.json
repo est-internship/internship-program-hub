@@ -1,20 +1,18 @@
 {
   "settings": {
     "grade1112": "18 September – 18 December 2026",
-    "grade10Dates": "13 January – 13 April",
+    "grade10Dates": "7 January – 7 April",
     "grade10Year": "2027",
-    "minMeetings": 14,
-    "subject": "Position you're applying – your name"
+    "minMeetings": 14
   },
   "companies": [
     {
       "id": "rollerskool",
-      "name": "PT Autory Muda Indonesia (Rollerskool)",
+      "name": "PT Autory Muda (RollerSkool)",
       "field": "Education & Training",
       "quota": 4,
       "filled": 0,
       "address": "Jl. Bintaro Utara No.14, Bintaro, Kec. Pesanggrahan, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12330",
-      "email": "hr@rollerskool.com",
       "notes": [],
       "roles": [
         {
@@ -68,7 +66,6 @@
       "quota": 3,
       "filled": 0,
       "address": "Ruko The Prominence, Jl. Jalur Sutera Alam Sutera No.43 Blok 38E No. 42, RT.003/RW.006, Panunggangan Tim., Kec. Pinang, Kota Tangerang, Banten 15143",
-      "email": "info@pupacenter.com",
       "notes": [],
       "roles": [
         {
@@ -78,20 +75,18 @@
             "Format & Simplify Resources: Turn complex text into clear, neurodivergent-friendly formats using bullet points, simple headings, and icons.",
             "Keep Files & Folders Organized: Maintain shared Google Drive folders, lesson plans, and project files so the team can quickly find what they need.",
             "Assist with Event Logistics: Help schedule workshops, track participant RSVPs, send reminder notes, and monitor meeting chats during virtual events.",
-            "Gather & Track Feedback: Input participant survey responses into simple spreadsheets to help the team improve future programs.",
-            "Promote Accessibility & Inclusion: Contribute fresh ideas during weekly team check-ins on how to keep learning spaces low-pressure and sensory-friendly"
+            "Gather & Track Feedback: Input participant survey responses into simple spreadsheets to help the team improve future programs."
           ]
         }
       ]
     },
     {
       "id": "bhumi-modern-living",
-      "name": "Bhumi Modern Living",
+      "name": "BHUMI Modern Living",
       "field": "Architecture & Construction",
       "quota": 3,
-      "filled": 1,
+      "filled": 0,
       "address": "Jl. Gn. Indah VIII, Cireundeu, Kec. Ciputat Tim., Kota Tangerang Selatan, Banten 15419",
-      "email": "Satriacakra4@gmail.com",
       "notes": [],
       "roles": [
         {
@@ -107,12 +102,11 @@
     },
     {
       "id": "black-and-veatch",
-      "name": "Black and Veatch",
+      "name": "Black & Veatch",
       "field": "Science, Technology, Engineering & Mathematics",
       "quota": 3,
       "filled": 0,
       "address": "Cibis Nine Building, 18th Floor Unit MN, Jl. TB Simatupang No.2, East Cilandak, South Jakarta City, 12560",
-      "email": "HutagalungC@bv.com",
       "notes": [],
       "roles": [
         {
@@ -128,12 +122,11 @@
     },
     {
       "id": "sinedu-id",
-      "name": "Sinedu.id (Sinema Edukasi)",
+      "name": "Sinedu.Id",
       "field": "Arts, Audio/Video Technology & Communications",
       "quota": 3,
       "filled": 0,
       "address": "Jl. Keramat No.3A-C, RT.12/RW.1, Cilandak Tim., Ps. Minggu, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12560",
-      "email": "shantikadwi1707@gmail.com",
       "notes": [],
       "roles": [
         {
@@ -143,7 +136,6 @@
             "Adapt Content for Social Media: Convert key takeaways from the learning modules into bite-sized posts, graphics, or short video scripts for social media channels.",
             "Format & Polish Resources: Organize text, images, and film clips into clean, easy-to-read PDFs or visual slides for quick classroom or home use.",
             "Assist with Event Logistics: Help set up, coordinate attendee lists, and manage tech or chat moderation for movie screenings, workshops, or webinars.",
-            "Research Relevant Themes: Watch select films to identify key educational themes, age appropriateness, and discussion points to support module creation.",
             "Gather & Organize Feedback: Collect input from teachers and parents on how the modules are working to help the team improve future resources"
           ]
         }
@@ -151,20 +143,17 @@
     },
     {
       "id": "grandwhiz-hotel",
-      "name": "Grandwhiz Hotel Simatupang",
+      "name": "Grandwhiz Hotel",
       "field": "Hospitality & Tourism",
       "quota": 1,
       "filled": 0,
       "address": "Jl. R.A. Kartini No.1, RW.7, Lb. Bulus, Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12440",
-      "email": "poinsjakarta@grandwhiz.com",
       "notes": [],
       "roles": [
         {
           "title": "Front Desk Intern",
           "bullets": [
             "Greet and assist visitors in a professional manner",
-            "Answer and direct phone calls and emails",
-            "Schedule appointments and manage calendars",
             "Maintain visitor logs and front desk records",
             "Handle basic inquiries and provide information",
             "Support administrative tasks (filing, data entry, document preparation)",
@@ -175,38 +164,33 @@
     },
     {
       "id": "notary-rita-komala-dewi",
-      "name": "Notary Rita Komala Dewi",
+      "name": "Notary",
       "field": "Government & Public Administration",
       "quota": 1,
       "filled": 0,
       "address": "Jl. Gedung Hijau Raya No. 80 E, Pondok Indah, Jakarta Selatan 12310",
-      "email": "rita.admnotaris@gmail.com",
       "notes": [
         "Must be fluent in Bahasa Indonesia!"
       ],
       "roles": [
         {
-          "title": "Legal Intern (Notarial)",
+          "title": "Notarial Intern",
           "bullets": [
-            "Assisting in the organization and archiving of deeds (minuta), copies of deeds, and supporting legal documents.",
             "Preparing and verifying the completeness of client documents required for deed drafting.",
             "Supporting the preparation, drafting, and typing of notarial and/or PPAT deeds under supervision.",
             "Assisting with legal research related to notarial, civil, and land law matters.",
-            "Assist in receiving clients and providing preliminary explanations regarding administrative requirements for deed preparation.",
-            "Providing administrative support in client services, including document follow-ups.",
-            "Assisting with legalization, notarization (waarmerking), and registration of documents, as well as other daily operational tasks."
+            "Providing administrative support in client services, including document follow-ups."
           ]
         }
       ]
     },
     {
       "id": "iwec-literacy-academy",
-      "name": "IWEC Literacy Academy",
+      "name": "IWEC Academy",
       "field": "Arts, Audio/Video Technology & Communications",
       "quota": 1,
       "filled": 0,
       "address": "Jl. Kemang Raya No.10A, RT.10/RW.1, Bangka, Kec. Mampang Prpt., Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12730",
-      "email": "iwec.indonesia@gmail.com",
       "notes": [],
       "roles": [
         {
@@ -227,13 +211,12 @@
       "quota": 1,
       "filled": 1,
       "address": "The RANK Place, Jl. Pangeran Antasari Raya No.19 4, RT.4/RW.13, Cilandak Bar., Kec. Cilandak, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12430",
-      "email": "admin@wnplawfirm.com",
       "notes": [
         "Must be fluent in Bahasa Indonesia!"
       ],
       "roles": [
         {
-          "title": "Lawyer Internship",
+          "title": "Internship Program",
           "bullets": [
             "Basic Legal Research & Drafting: Perform preliminary background research on factual matters under attorney supervision; assist in drafting basic correspondence, client updates, and meeting summaries.",
             "Observation & Learning: Shadow attorneys during client consultations, depositions, strategy sessions, and court proceedings.",
@@ -249,24 +232,46 @@
       "quota": 2,
       "filled": 0,
       "address": "Jl. Ir. H. Juanda No.6, RT.14/RW.4, Kb. Klp., Kecamatan Gambir, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10120",
-      "email": "Angelamichelle2511@gmail.com",
       "notes": [],
       "roles": [
         {
           "title": "Editor Multimedia Intern",
           "bullets": [
-            "Edit raw video, audio, and images into clear and engaging content, including podcast clips and field footage.",
-            "Enhance audio by adjusting music, voice-overs, dialogue, and sound effects.",
-            "Collaborate with the production and editorial teams while following journalistic standards.",
-            "Manage time well and meet deadlines under pressure.",
-            "Communicate clearly to understand and apply team instructions."
+            "Edit content: Cut, combine, and arrange raw footage (video, audio, images) into engaging stories, such as Forum Keadilan podcast clips and videos from its reporters.",
+            "Improve audio: Edit and mix soundtracks, voice-overs, dialogue, and sound effects so they match the visuals.",
+            "Team collaboration: Coordinate with other production teams to understand concepts and directions that follow journalistic standards.",
+            "Time management: Work under pressure and meet deadlines.",
+            "Communication: Turn directions from the multimedia and editorial teams into action and communicate actively."
           ]
         },
         {
           "title": "Journalist Intern",
-          "tbc": true,
           "bullets": [
-            "Job description to be confirmed. Please ask the Internship Facilitator."
+            "Gather information: Research, observe, and conduct in-depth interviews with sources to get accurate data.",
+            "Verify facts: Check that information from various sources is authentic and accurate before it is published.",
+            "Cover events: Report live from the field (press conferences, demonstrations, events) to provide real-time coverage.",
+            "Write & edit: Write news in clear, informative language and edit it to be clear, concise, and up to journalism standards.",
+            "Uphold the code of ethics: Follow journalistic principles, including protecting the confidentiality of sources when needed and avoiding sensationalism."
+          ]
+        }
+      ]
+    },
+    {
+      "id": "scura-salix-sanctuary",
+      "name": "Scura Salix Sanctuary",
+      "field": "Information Technology",
+      "quota": 3,
+      "filled": 0,
+      "address": "Grand Puri Niaga K6 2M-2L, Jl. Puri Kencana, RT.11/RW.7, South Kembangan, Kembangan, West Jakarta City, Jakarta 11610",
+      "notes": [],
+      "roles": [
+        {
+          "title": "Internship Program",
+          "bullets": [
+            "Translate Technical Concepts: Attend daily cybersecurity briefings and distill complex security threats into clear, accessible educational content.",
+            "Create Awareness Flyers: Brainstorm, write, and design original cybersecurity awareness flyers",
+            "Validate Security Knowledge: Complete daily technical assessments to ensure accuracy across all published materials.",
+            "Support Compliance Standards: Produce educational campaigns aligned with industry cybersecurity awareness standards and organizational best practices."
           ]
         }
       ]

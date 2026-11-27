@@ -1,11 +1,11 @@
 # EST Internship Hub + Survival Guide
 
-One password-protected website with two sides: the **Internship Hub** (companies and vacancies) and the **Survival Guide** (first-internship help). Use the two big buttons at the top to switch.
+One password-protected website with two sides: the **Internship Hub** (companies and opportunities) and the **Survival Guide** (first-internship help). Use the two big buttons at the top to switch.
 
 Files:
 - `index.html` is the website (design and password lock). The page content is encrypted inside it.
 - `content.json` is the written content of the **Survival Guide**.
-- `companies.json` is the **Internship Hub** data: dates in `settings`, and one block per company in `companies` (quota, filled, address, email, roles).
+- `companies.json` is the **Internship Hub** data: dates in `settings`, and one block per company in `companies` (name, field, quota, filled, address, roles).
 - `.nojekyll` is an empty helper file for GitHub Pages. Keep it.
 
 ## Put it online with GitHub Pages (free)
@@ -22,5 +22,5 @@ A missing comma or quotation mark breaks the file; if the site shows old text af
 
 ## Password
 
-The site asks for a password before opening. `index.html` is encrypted, so the text inside it cannot be read from the page source. A new password needs a rebuilt `index.html`.
+The site asks for a password before opening. `index.html` is encrypted, so the text inside it cannot be read from the page source. After 3 wrong attempts the page locks until the next day (midnight, on that device's clock). This lock is stored in the visitor's own browser, so it slows down guessing but cannot stop someone who clears their browser data, uses another browser or device, or a private window. A new password needs a rebuilt `index.html`.
 Important: `content.json` and `companies.json` are ordinary files in a public repository, so anyone who knows their address can read them. Do not put private information in them.

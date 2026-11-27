@@ -537,7 +537,7 @@
     "intro": "AI tools can be a great helper at work. They can also get you in trouble if you use them the wrong way. This page shows you how to use AI smartly, honestly and safely, while still doing the learning yourself.",
     "bigIdea": {
       "title": "AI is your helper, not your replacement",
-      "text": "You are at your internship to learn, think and build real skills. If AI does all of the work, you learn NOTHING and your mentor never sees what you can do. And remember: you are always responsible for what you hand in, even if AI helped."
+      "text": "You are at your internship to learn, think and build real skills. If AI does all of the work, you learn nothing and your mentor never sees what you can do. Use AI to support your thinking, never to replace it. And remember: you are always responsible for what you hand in, even if AI helped."
     },
     "traffic": [
       {
@@ -572,10 +572,10 @@
         "title": "Don't do this",
         "note": "These can hurt the company, other people or you.",
         "items": [
-          "Pasting private or confidential information into a public AI tool, like: ChatGPT, Gemini or Claude AI",
+          "Pasting private or confidential information into a public AI tool",
           "Using AI after your mentor or school said not to",
-          "Handing in AI work as if you wrote it all yourself, or hiding that you used it, BE HONEST!",
-          "Using facts, numbers or quotes from AI without checking them, always recheck any information AI gave you!",
+          "Handing in AI work as if you wrote it all yourself, or hiding that you used it",
+          "Using facts, numbers or quotes from AI without checking them",
           "Making fake or misleading content about real people, like fake messages, photos, voices or videos"
         ]
       }
@@ -605,7 +605,7 @@
     "situations": [
       {
         "q": "My mentor asked me to summarise a long report. Can I let AI do it?",
-        "a": "Only if your mentor says AI is allowed, and only if the report doesn't contain anything private or confidential.",
+        "a": "Only if your mentor says AI is allowed, and the report is not private. If you are allowed, use AI as a starting point, not as the final answer.",
         "list": [
           "Read the report yourself first",
           "Remove names and private details before using any tool",
