@@ -1,7 +1,7 @@
 {
   "settings": {
     "grade1112": "18 September – 18 December 2026",
-    "grade10Dates": "7 January – 7 April",
+    "grade10Dates": "13 January – 13 April",
     "grade10Year": "2027",
     "minMeetings": 14
   },
@@ -93,8 +93,8 @@
           "title": "Internship Program",
           "bullets": [
             "Accounting: Organize receipts, enter project expenses into spreadsheets, and help track construction budgets.",
-            "Marketing: Draft social media posts, help create project presentation decks, and research new construction projects in the area.",
-            "Project Planning: Organize project files and blueprints, update project schedules, and track building permit updates.",
+            "Marketing: Draft social media posts, help create project presentation decks, research new construction projects in the area, and build promotional campaigns to market finished interior spaces.",
+            "Interior & Spatial Design: Create interior concepts, select materials and furnishings, and produce basic floor plans or visual mockups for client spaces.",
             "General: Attend team meetings and assist project managers with daily administrative tasks."
           ]
         }
